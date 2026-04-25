@@ -7,12 +7,12 @@ importScripts('https://www.gstatic.com/firebasejs/9.22.0/firebase-messaging-comp
 // your app's Firebase config object.
 // https://firebase.google.com/docs/web/setup#config-object
 firebase.initializeApp({
-  apiKey: "AIzaSyCdrH2241iaDDuo33lS7gEswhmwwiEDXWw",
-  authDomain: "last-zone-91af9.firebaseapp.com",
-  projectId: "last-zone-91af9",
-  storageBucket: "last-zone-91af9.firebasestorage.app",
-  messagingSenderId: "58463070590",
-  appId: "1:58463070590:web:4b67aab1defe19cb176b2f"
+  apiKey: "AIzaSyBjVaNDIoUvm0La7OwGqLxmMFQcrNb_Oh4",
+  authDomain: "skillzone-esports.firebaseapp.com",
+  projectId: "skillzone-esports",
+  storageBucket: "skillzone-esports.firebasestorage.app",
+  messagingSenderId: "496866292552",
+  appId: "1:496866292552:web:21054909e1ce530243f97d"
 });
 
 // Retrieve an instance of Firebase Messaging so that it can handle background
